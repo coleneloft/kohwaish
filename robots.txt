@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aapheithah.minimalblue.com/sitemap.xml
